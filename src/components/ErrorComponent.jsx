@@ -10,8 +10,7 @@ const ErrorComponent = ({ message }) => {
       left={"50%"}
       transform={"translateX(-50%)"}
       w={"container.lg"}
-    >
-        
+    >   
       <AlertIcon />
       {message}
     </Alert>
