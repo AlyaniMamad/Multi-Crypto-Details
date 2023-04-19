@@ -11,6 +11,7 @@ const ErrorComponent = ({ message }) => {
       transform={"translateX(-50%)"}
       w={"container.lg"}
     >
+        
       <AlertIcon />
       {message}
     </Alert>
