@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/Multi-Crypto-Details/static/js/main.fa0808ad.js",
+    "static/media/btc1.png": "/Multi-Crypto-Details/static/media/btc1.5073b214738bad92bfef.png",
+    "index.html": "/Multi-Crypto-Details/index.html",
+    "main.fa0808ad.js.map": "/Multi-Crypto-Details/static/js/main.fa0808ad.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fa0808ad.js"
+  ]
+}
